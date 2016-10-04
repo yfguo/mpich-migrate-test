@@ -10,6 +10,7 @@
 #
 # Eventually, we want to allow this script to be executed anywhere in the
 # mpich tree.  This is not yet implemented.
+# foobar
 
 
 ########################################################################
